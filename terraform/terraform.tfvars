@@ -1,0 +1,5 @@
+instance_name = "Monitoring_Server"
+key_name = "SecOps-key"
+access_key = "your_access_key"
+secret_key = "your_secret_access_key"
+region = "us-east-1"
